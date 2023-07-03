@@ -1,6 +1,8 @@
 //const MAQUINA = 'LOCAL';
 const MAQUINA = 'GIT_PAGES';
 
+//link do vídeo: https://youtu.be/4mjBv9Zv-IE
+
 let func_intervalos = [];
 
 estados = {'menu':1,'game_loop':2, 'tutorial':5, 'sobre':6, 'gameover': 7}

@@ -1,0 +1,20 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+
+canvas {
+    border: 1px solid black;
+}
+

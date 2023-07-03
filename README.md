@@ -2,6 +2,7 @@
 ## Autor: Gabriel Sebastião do Nascimento Neto
 ## Matéria: LOP
 ## Professor: Rummenigge Rudson Dantas
+### Link do vídeo de apresentação: https://youtu.be/4mjBv9Zv-IE
 <p>
 Este projeto contem um jogo simples onde você possui uma nave e deve destruir os asteroides antes que estes encostem na sua nave.
 
